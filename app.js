@@ -1,1 +1,1 @@
-alert("Hi");
+const counters = document.querySelectorAll(".counter");
