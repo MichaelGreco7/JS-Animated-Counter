@@ -1,3 +1,3 @@
 ## JavaScript Animated Counter
 
-[Live Demo]()
+[Live Demo](https://michaelgreco7.github.io/JS-Animated-Counter)
